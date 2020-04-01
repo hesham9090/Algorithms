@@ -1,5 +1,5 @@
 # Algorithms
-Computer Algorithms 
+
 
 Important Mathematical Proof Formula for sequence of numbers for algorithms:
 
