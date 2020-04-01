@@ -15,7 +15,7 @@ Add the two equations eq_1 & eq_2 , term by term; each term is n+1, so
 
 2S = (n+1) + (n+1) + … + (n+1) = n(n+1)
 
-from above equation we note that we have n+1 terms n times
+from above equation we note that we have n+1 terms repeated n times
 
 Divide by 2:
 
