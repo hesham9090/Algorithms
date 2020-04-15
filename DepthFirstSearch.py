@@ -25,7 +25,7 @@ class DFS:
         print("Initializations started")
         self.visited = set()                  #Set to keep track of visited nodes
         self.traversal_order = []             #to keep track of order of visited nodes
-        self.i = 0
+        
 
     def depth_first_search(self, graph, node):
         if node not in self.visited:
