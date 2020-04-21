@@ -4,6 +4,9 @@ Selection Sort Algorithm : Sorts a given array by selection sort
 Input: An array data[0..n − 1] has some elements
 Output: Array data[0..n − 1] sorted in ascending order
 
+Check below image for more illustration about how selection sort works
+https://github.com/hesham9090/Algorithms/blob/master/imagesSelectionSort.jpg
+
 """
 
 def selection_sort(data):
