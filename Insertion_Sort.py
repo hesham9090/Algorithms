@@ -1,6 +1,12 @@
 """
 Insertion Sort is not fast algorithm because it uses nested loops to sort
 it can be used only for small data
+
+Check below image for more illustration about how insertion sort works
+https://github.com/hesham9090/Algorithms/blob/master/images/InsertionSort.png
+
+
+
 """
 
 data = [100,12,90,19,22,8,12]
