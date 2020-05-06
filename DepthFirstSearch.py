@@ -5,7 +5,7 @@ It runs to explore nodes and edges of a graph
 visits every vertex once and checks every edge in the graph once
 
 Input: Graph G = (V,E)
-Output: Graph G vertices marked in the order they are first encountered by the DFS traversal
+Output: List of vertices marked in the order they are first encountered by the DFS traversal
 
 Check below image for graph we tried to build
 https://github.com/hesham9090/Algorithms/blob/master/images/DFS.PNG
