@@ -3,7 +3,7 @@
 Breadth First Search:
 
 Input: Graph G = (V,E)
-Output: Graph G vertices marked in the order they are first encountered by the BFS traversal
+Output: List of vertices marked in the order they are first encountered by the BFS traversal
 
 Check below image for graph we tried to build
 https://github.com/hesham9090/Algorithms/tree/master/images/BFS.jpg
